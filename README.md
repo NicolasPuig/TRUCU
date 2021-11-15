@@ -1,4 +1,10 @@
 # TRUCU
+
+#### Integrantes del equipo
+- [Mateo Machado](https://github.com/MateoMachado)
+- [Sebastian Mazzey](https://github.com/SebaMazzey)
+- [Nicolas Puig](https://github.com/NicolasPuig)
+
 ### Arquitectura del sistema 
 
 El sistema TrUCU tiene una arquitectura de cliente-servidor, donde el servidor es emulado con una máquina virtual que posee la base de datos del sistema, y el cliente es un programa encargado de realizar las transacciones efectuadas por los usuarios. 
